@@ -72,9 +72,8 @@ me.hello_world()
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20HANDANE-blue?style=flat-square&logo=linkedin)](Your-LinkedIn-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20HANDANE-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yassine-handane/)
 [![Email](https://img.shields.io/badge/Email-y.handane%40gmail.com-red?style=flat-square&logo=gmail)](mailto:y.handane@gmail.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=flat-square&logo=tableau)](Your-Tableau-URL)
 
 ---
 <div align="center">
