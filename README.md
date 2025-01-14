@@ -50,9 +50,8 @@ me.hello_world()
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20HANDANE-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yassine-handane/)
-[![Email](https://img.shields.io/badge/Email-y.handane%40gmail.com-red?style=flat-square&logo=gmail)](mailto:y.handane@gmail.com)
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=YsnHdn&color=blue" alt="Profile views counter"/>
 </div>
