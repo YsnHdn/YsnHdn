@@ -1,6 +1,6 @@
 # Hi 👋 My name is Yassine Handane
 
-## ML Engineer & Data Scientist
+## Data enthusiast and ENSIAS Alumni, currently student @UPC
 
 I'm a Machine Learning graduate student specializing in Speech Recognition and Natural Language Processing (NLP), merging theoretical research with practical applications. With a focus on building innovative AI solutions, I develop systems that bridge the gap between advanced machine learning research and real-world applications.
 
