@@ -1,7 +1,7 @@
 # Hi there, I'm Yassine HANDANE 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Data+Scientist;ML+Engineer;Speech+Recognition+Expert;NLP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Data+Scientist;ML+Student ;t;NLP+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
@@ -9,7 +9,7 @@
 🎓 M.Sc. Machine Learning Student at Université Paris Cité  
 🔬 Research Intern at LIA Avignon - Working on Speech Recognition & NLP  
 🌟 Passionate about pushing the boundaries of AI and Machine Learning  
-🚀 Currently developing an innovative Speech Analysis System using Whisper & DistilBERT
+🚀 Developed an innovative Speech Analysis System
 
 ## 🔧 Technologies & Tools
 
@@ -25,30 +25,7 @@
 ### 🎙️ AISSPER Speech Analysis System
 - Automatic speech analysis system combining ASR and NLU
 - Tech: Whisper, DistilBERT, CamemBERT, Flask
-- 🔗 [View Project](your-project-link)
-
-### 🌍 Ecological Feature Selection Pipeline
-- Advanced feature selection for ecological modeling
-- Improved prediction performance by 20%
-- Tech: Scikit-learn, LGBM, Random Forest
-- 🔗 [View Project](your-project-link)
-
-### 🏦 Banking Customer Churn Prediction
-- ML model with 85% accuracy for predicting customer churn
-- Tech: Python, Pandas, ETL, Tableau
-- 🔗 [View Project](your-project-link)
-
-### 🔐 Safer - IoT Surveillance System
-- Real-time facial detection with environmental monitoring
-- Tech: TensorFlow Lite, OpenCV, Firebase
-- 🔗 [View Project](your-project-link)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YsnHdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+- 🔗 [View Project](https://ysnhdn-pfe-site.hf.space/)
 
 ## 🛠️ Skills & Expertise
 
