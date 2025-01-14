@@ -6,7 +6,6 @@ I'm a Machine Learning graduate student specializing in Speech Recognition and N
 
 - 🎓 Currently pursuing M.Sc. in Machine Learning at Université Paris Cité
 - 📧 You can contact me at [y.handane@gmail.com](mailto:y.handane@gmail.com)
-- 🌍 Based in Paris, France
 
 ## Skills
 
