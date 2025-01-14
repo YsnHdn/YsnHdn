@@ -1,57 +1,29 @@
-# Hi there, I'm Yassine HANDANE 👋 
+# Hi 👋 My name is Yassine Handane
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Data+Scientist;ML+Student ;NLP+Enthusiast" alt="Typing SVG" />
-</div>
+## ML Engineer & Data Scientist
 
-## 🎯 About Me
+I'm a Machine Learning graduate student specializing in Speech Recognition and Natural Language Processing (NLP), merging theoretical research with practical applications. With a focus on building innovative AI solutions, I develop systems that bridge the gap between advanced machine learning research and real-world applications.
 
-🎓 M.Sc. Machine Learning Student at Université Paris Cité  
-🔬 Research Intern at LIA Avignon - Working on Speech Recognition & NLP  
-🌟 Passionate about pushing the boundaries of AI and Machine Learning  
-🚀 Developed an innovative Speech Analysis System
+- 🎓 Currently pursuing M.Sc. in Machine Learning at Université Paris Cité
+- 📧 You can contact me at [y.handane@gmail.com](mailto:y.handane@gmail.com)
+- 🌍 Based in Paris, France
 
-## 🔧 Technologies & Tools
+## Skills
 
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NLP-Transformers-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
-## 🚀 Featured Projects
+## Socials
 
-### 🎙️ AISSPER Speech Analysis System
-- Automatic speech analysis system combining ASR and NLU
-- Tech: Whisper, DistilBERT, CamemBERT, Flask
-- 🔗 [View Project](https://ysnhdn-pfe-site.hf.space/)
-
-## 🛠️ Skills & Expertise
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Yassine HANDANE"
-        self.role = "ML Engineer & Data Scientist"
-        self.languages = ["Python", "R", "SQL", "Java"]
-        self.ml_stack = ["PyTorch", "TensorFlow", "Scikit-learn"]
-        self.nlp_stack = ["Transformers", "NLTK", "Whisper", "CamemBERT"]
-        self.data_stack = ["Pandas", "Spark", "Hadoop", "Airflow"]
-        self.devops = ["Docker", "Kubernetes", "AWS", "SLURM"]
-        
-    def hello_world(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-
-me = DataScientist()
-me.hello_world()
-```
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20HANDANE-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yassine-handane/)
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YsnHdn&color=blue" alt="Profile views counter"/>
-</div>
+<p align="left">
+<a href="https://github.com/YsnHdn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="your-linkedin-url" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
