@@ -35,7 +35,3 @@ I build LLM systems that hold up in production: retrieval pipelines, agentic wor
 **GenAI & LLMs:** LangChain · LangGraph · RAG · RAGAS · Promptfoo · HuggingFace Transformers · QLoRA / Unsloth
 **Retrieval:** FAISS · ChromaDB · hybrid search · re-ranking
 **MLOps:** MLflow · Docker · CI/CD · Modal
-
----
-
-<p align="center"><i>Open to discussing AI Engineering roles in France and Morocco. Feel free to reach out.</i></p>
